@@ -1,2 +1,11 @@
-# Python-For-DataScience
-🚀 Python exercises &amp; projects for Data Science! This repo documents my journey in mastering Python for data analysis, visualization, and machine learning. Topics: Pandas, NumPy, Matplotlib, EDA, and algorithms.  🔍 Follow my progress in Data Science!
+# 🚀 Python-For-DataScience  
+A collection of Python exercises and projects for mastering Data Science. This repository documents my learning journey, covering key topics like data analysis, visualization, and machine learning.  
+
+## 📌 Topics Covered  
+- 🐍 Python Basics  
+- 📊 Data Analysis with Pandas & NumPy  
+- 📉 Data Visualization (Matplotlib & Seaborn)  
+- 🤖 Machine Learning Concepts  
+- 🔢 Algorithms & Problem-Solving  
+
+
